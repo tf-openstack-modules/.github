@@ -1,0 +1,5 @@
+{
+  "name": "Release",
+  "description": "tf-openstack-modules release workflow.",
+  "iconName": "terraform_logo"
+}
